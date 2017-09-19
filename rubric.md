@@ -1,6 +1,6 @@
 Passing requires all values
 
-Automated:
+Functional:
 
 [] Returns list
 [] Returns single
@@ -12,6 +12,9 @@ Automated:
 [] Returns 404 status codes for invalid IDs
 [] Deployed
 
-Manual:
+Style:
 
-[] Code is well-formatted
+[] Correct indentation
+[] Consistent semi-colon usage
+[] Descriptive names
+[] No `console.log` statements
