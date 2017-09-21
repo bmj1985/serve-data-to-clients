@@ -4,8 +4,6 @@ Functional:
 
 * [ ] Returns list
 * [ ] Returns single
-* [ ] Uses a top-level `data` attribute
-* [ ] Attributes are camelCased
 * [ ] Data values are correct
 * [ ] Returns CORS headers
 * [ ] Returns 200 status codes for data
@@ -14,6 +12,8 @@ Functional:
 
 Style:
 
+* [ ] Uses a top-level `data` attribute
+* [ ] Attributes are camelCased
 * [ ] Correct indentation
 * [ ] Consistent semi-colon usage
 * [ ] Descriptive names
