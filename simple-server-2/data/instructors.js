@@ -1,73 +1,73 @@
-modules.exports = [{
-    "ID": "1",
+module.exports = [{
+    "id": 1,
     "Full Name": "Kyle Coberly",
     "Title": "Faculty Director",
     "Number of Dogs": "0"
   },
   {
-    "ID": "2",
+    "id": 2,
     "Full Name": "Danny Fritz",
     "Title": "Lead Instructor",
     "Number of Dogs": "0"
   },
   {
-    "ID": "3",
+    "id": 3,
     "Full Name": "CJ Reynolds",
     "Title": "Lead Instructor",
     "Number of Dogs": "0"
   },
   {
-    "ID": "4",
+    "id": 4,
     "Full Name": "Brooks Patton",
     "Title": "Lead Instructor",
     "Number of Dogs": "0"
   },
   {
-    "ID": "5",
+    "id": 5,
     "Full Name": "Roberto Ortega",
     "Title": "Lead Instructor",
     "Number of Dogs": "1"
   },
   {
-    "ID": "6",
+    "id": 6,
     "Full Name": "Chad Drummond",
     "Title": "Instructor",
     "Number of Dogs": "0"
   },
   {
-    "ID": "7",
+    "id": 7,
     "Full Name": "Kim Schlesinger",
     "Title": "Instructor",
     "Number of Dogs": "0"
   },
   {
-    "ID": "8",
+    "id": 8,
     "Full Name": "Peter Ostiguy",
     "Title": "Associate Instructor",
     "Number of Dogs": "1"
   },
   {
-    "ID": "9",
+    "id": 9,
     "Full Name": "Cass Torske",
     "Title": "Resident",
     "Number of Dogs": "1"
   },
   {
-    "ID": "10",
+    "id": 10,
     "Full Name": "Matt Winzer",
     "Title": "Resident",
     "Number of Dogs": "2"
   },
   {
-    "ID": "11",
+    "id": 11,
     "Full Name": "Aaron Goodman",
     "Title": "Resident",
     "Number of Dogs": "0"
   },
   {
-    "ID": "12",
+    "id": 12,
     "Full Name": "Michelle Bergquist",
     "Title": "Resident",
     "Number of Dogs": "1"
   }
-]
+];
