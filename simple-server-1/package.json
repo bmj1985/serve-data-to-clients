@@ -19,6 +19,7 @@
   "homepage": "https://github.com/bmj1985/serve-data-to-clients#readme",
   "dependencies": {
     "cors": "^2.8.4",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "heroku": "^0.2.0"
   }
 }
